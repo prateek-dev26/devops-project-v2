@@ -50,7 +50,13 @@ kubectl get svc
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+## 📸 Screenshots
+
+### Pods Running
+![Pods](screenshots/pods.png)
+
+### Service Output
+![Service](screenshots/service.png.jpeg)
 
 ---
 
